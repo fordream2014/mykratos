@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"git.code.oa.com/trpcprotocol/ctp_core/core_trpc_go/mykratos/internal/service"
+	"github.com/fordream2014/mykratos/internal/service"
 
 	"github.com/go-kratos/kratos/pkg/log"
 	bm "github.com/go-kratos/kratos/pkg/net/http/blademaster"

@@ -1,7 +1,7 @@
 package grpc
 
 import (
-	pb "git.code.oa.com/trpcprotocol/ctp_core/core_trpc_go/mykratos/api"
+	pb "github.com/fordream2014/mykratos/api"
 
 	"github.com/go-kratos/kratos/pkg/conf/paladin"
 	"github.com/go-kratos/kratos/pkg/net/rpc/warden"

@@ -3,8 +3,8 @@ package http
 import (
 	"net/http"
 
-	pb "git.code.oa.com/trpcprotocol/ctp_core/core_trpc_go/mykratos/api"
-	"git.code.oa.com/trpcprotocol/ctp_core/core_trpc_go/mykratos/internal/model"
+	pb "github.com/fordream2014/mykratos/api"
+	"github.com/fordream2014/mykratos/internal/model"
 	"github.com/go-kratos/kratos/pkg/conf/paladin"
 	"github.com/go-kratos/kratos/pkg/log"
 	bm "github.com/go-kratos/kratos/pkg/net/http/blademaster"

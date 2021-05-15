@@ -4,10 +4,10 @@
 package di
 
 import (
-	"git.code.oa.com/trpcprotocol/ctp_core/core_trpc_go/mykratos/internal/dao"
-	"git.code.oa.com/trpcprotocol/ctp_core/core_trpc_go/mykratos/internal/service"
-	"git.code.oa.com/trpcprotocol/ctp_core/core_trpc_go/mykratos/internal/server/grpc"
-	"git.code.oa.com/trpcprotocol/ctp_core/core_trpc_go/mykratos/internal/server/http"
+	"github.com/fordream2014/mykratos/internal/dao"
+	"github.com/fordream2014/mykratos/internal/service"
+	"github.com/fordream2014/mykratos/internal/server/grpc"
+	"github.com/fordream2014/mykratos/internal/server/http"
 
 	"github.com/google/wire"
 )

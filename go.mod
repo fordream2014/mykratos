@@ -1,4 +1,4 @@
-module mykratos
+module github.com/fordream2014/mykratos
 
 go 1.13
 

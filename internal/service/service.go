@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	pb "git.code.oa.com/trpcprotocol/ctp_core/core_trpc_go/mykratos/api"
-	"git.code.oa.com/trpcprotocol/ctp_core/core_trpc_go/mykratos/internal/dao"
+	pb "github.com/fordream2014/mykratos/api"
+	"github.com/fordream2014/mykratos/internal/dao"
 	"github.com/go-kratos/kratos/pkg/conf/paladin"
 
 	"github.com/golang/protobuf/ptypes/empty"

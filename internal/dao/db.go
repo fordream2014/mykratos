@@ -3,7 +3,7 @@ package dao
 import (
 	"context"
 
-	"git.code.oa.com/trpcprotocol/ctp_core/core_trpc_go/mykratos/internal/model"
+	"github.com/fordream2014/mykratos/internal/model"
 	"github.com/go-kratos/kratos/pkg/conf/paladin"
 	"github.com/go-kratos/kratos/pkg/database/sql"
 )
